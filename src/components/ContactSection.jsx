@@ -84,25 +84,25 @@ const ContactSection = () => {
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5 }}
         >
-          <h2 className="text-3xl font-semibold mb-6">Our Location</h2>
+          <h2 className="md:text-3xl text-xl font-semibold mb-6">Our Location</h2>
           <div>
-            <h3 className="text-xl font-semibold mb-2">Address:</h3>
+            <h3 className="md:text-xl font-semibold mb-2">Address:</h3>
             <p className="text-lg text-gray-600">
               Seat Of Wisdom,Adalemo Sango Ota, Ogun State, <br />Nigeria
             </p>
           </div>
           <div className="mt-6">
-            <h3 className="text-xl font-semibold mb-2">Phone:</h3>
+            <h3 className="md:text-xl font-semibold mb-2">Phone:</h3>
             <a
               href="tel:+123806807895"
-              className="flex items-center text-lg text-primary hover:duration-300 ease-linear hover:text-secondary"
+              className="flex items-center md:text-lg text-sm text-primary hover:duration-300 ease-linear hover:text-secondary"
             >
               <FaPhoneAlt className="w-6 h-6 mr-2" />
               +123 806807895
             </a>
           </div>
           <div className="mt-6">
-            <h3 className="text-xl font-semibold mb-2">Email:</h3>
+            <h3 className="md:text-xl font-semibold mb-2">Email:</h3>
             <a
               href="mailto:Seatofwisdomprivateschools@gmail.com"
               className="flex items-center md:text-lg text-sm text-primary hover:duration-300 ease-linear hover:text-secondary"
