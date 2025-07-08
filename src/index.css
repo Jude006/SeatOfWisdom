@@ -1,0 +1,15 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.under:hover {
+  border-bottom: 2px solid #f2c94c;
+  transition: 0.1s ease-in;
+}
+
+/* html{
+  scroll-behavior: smooth;
+} */
