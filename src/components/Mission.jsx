@@ -17,7 +17,7 @@ const Mission = () => {
         <p className="text-2xl font-poppins font-bold">Our Vision</p>
         <p className="text-center font-open">
           {" "}
-          The vision of Amazing Grace Comprehensive college, Ota is to be the
+          The vision of Seat Of Wisdom Private School, Ota is to be the
           preferred college which will excel in the preparing its students who
           are future leaders ahead of a better tomorrow.
         </p>

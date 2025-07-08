@@ -38,10 +38,10 @@
         <nav className="py-1">
           <div className="container  py-2 md:px-20 px-4 mx-auto flex justify-between items-center">
             {/* Logo */}
-            <div className="cursor-pointer">
+            <Link to='/' className="cursor-pointer">
               <h1 className='font-poppins text-lg'>Seat Of Wisdom.</h1>
             {/* <img src="/images/logo.png" alt="logo"  className='h-[100%] w-[60px] object-cover'/> */}
-            </div>
+            </Link>
 
             {/* Desktop Nav */}
             <div>
