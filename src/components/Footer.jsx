@@ -84,8 +84,8 @@ const Footer = () => {
             <p>
               Location : 8/10, Modupe Akinrinade Str, Off Amoke Are Street, Adalemo Sango-Ota. Ogun state.
               </p>
-            <p>Email:Seatofwisdomprivateschools@gmail.com</p> 
-            <p>Phone:08068078495</p>
+            <p className="md:text-[16px] text-sm">Email:Seatofwisdomprivateschools@gmail.com</p> 
+            <p className="md:text-[16px] text-sm">Phone:08068078495</p>
           </div>
         </div>
       </div>
