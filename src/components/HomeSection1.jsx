@@ -23,7 +23,7 @@ const HomeSection1 = () => {
             We provide a memorable academic experience for our students and
             pupils.
           </p>
-          <p>At Amazing grace; School feels like home.</p>
+          <p>At Seat Of Wisdom; School feels like home.</p>
         </div>
         <div className="flex w-full justify-between mt-4 items-center">
           <div className="relative flex   ">
