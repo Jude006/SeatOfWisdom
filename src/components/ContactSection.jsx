@@ -104,8 +104,8 @@ const ContactSection = () => {
           <div className="mt-6">
             <h3 className="text-xl font-semibold mb-2">Email:</h3>
             <a
-              href="mailto:info@amazinggrace.com"
-              className="flex items-center text-lg text-primary hover:duration-300 ease-linear hover:text-secondary"
+              href="mailto:Seatofwisdomprivateschools@gmail.com"
+              className="flex items-center md:text-lg text-sm text-primary hover:duration-300 ease-linear hover:text-secondary"
             >
               <FaEnvelope className="w-6 h-6 mr-2" />
              Seatofwisdomprivateschools@gmail.com
